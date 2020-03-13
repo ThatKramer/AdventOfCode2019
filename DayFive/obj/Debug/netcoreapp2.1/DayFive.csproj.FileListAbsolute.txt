@@ -1,0 +1,11 @@
+C:\dev\AdventOfCode2019\DayFive\bin\Debug\netcoreapp2.1\DayFive.deps.json
+C:\dev\AdventOfCode2019\DayFive\bin\Debug\netcoreapp2.1\DayFive.runtimeconfig.json
+C:\dev\AdventOfCode2019\DayFive\bin\Debug\netcoreapp2.1\DayFive.runtimeconfig.dev.json
+C:\dev\AdventOfCode2019\DayFive\bin\Debug\netcoreapp2.1\DayFive.dll
+C:\dev\AdventOfCode2019\DayFive\bin\Debug\netcoreapp2.1\DayFive.pdb
+C:\dev\AdventOfCode2019\DayFive\obj\Debug\netcoreapp2.1\DayFive.csprojAssemblyReference.cache
+C:\dev\AdventOfCode2019\DayFive\obj\Debug\netcoreapp2.1\DayFive.csproj.CoreCompileInputs.cache
+C:\dev\AdventOfCode2019\DayFive\obj\Debug\netcoreapp2.1\DayFive.AssemblyInfoInputs.cache
+C:\dev\AdventOfCode2019\DayFive\obj\Debug\netcoreapp2.1\DayFive.AssemblyInfo.cs
+C:\dev\AdventOfCode2019\DayFive\obj\Debug\netcoreapp2.1\DayFive.dll
+C:\dev\AdventOfCode2019\DayFive\obj\Debug\netcoreapp2.1\DayFive.pdb

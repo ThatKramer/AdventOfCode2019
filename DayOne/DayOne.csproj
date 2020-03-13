@@ -1,0 +1,12 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>netcoreapp2.1</TargetFramework>
+  </PropertyGroup>
+
+  <Target Name="PostBuild" AfterTargets="PostBuildEvent">
+    <Exec Command="XCOPY &quot;$(ProjectDir)extern\input.txt&quot; &quot;$(TargetDir)extern\&quot; /Y /I" />
+  </Target>
+
+</Project>
